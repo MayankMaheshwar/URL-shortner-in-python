@@ -2,6 +2,8 @@
 
 Usage -
 Run the api.py program and give the url you wanted to short or retrieve original_url
+for ease of use - 
+I already taken make the class to short the url and pass that short url to retrieve the original_url
 
 
 # Requirements of the System
