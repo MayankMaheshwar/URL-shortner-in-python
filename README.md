@@ -53,7 +53,7 @@ If we calculate this value for each second, i.e., queries per second (QPS) = 500
 Considering the 100:1 read/write ratio, URLs redirections per second will be = 100 * 200 URLs/s = 20K/s
 
 
-# Storage Estimation: 
+# Storage Estimation
 Let us assume that we are willing to store our data (short URL + long URL) for ten years then, the number of URLs we will be storing would be = 500 million * 10 * 12 = 60 billion URLs
 
 Now, we assume the URL's length to be 120 characters (120 bytes) on average and then add 80 more bytes to store the information about the URL. Total storage requirement = 60 billion * 200 bytes = 12TB
