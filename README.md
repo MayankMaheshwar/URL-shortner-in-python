@@ -46,7 +46,7 @@ Database- It will be used to store the mapping of long URLs to short URLs.
 
 # Estimation of Scale and Constraints
 
-# Rate Limits: 
+# Rate Limits
 We can assume that we will have 500 million new URL shortening requests per month; with a 100:1 read/write ratio, we can expect 50 billion redirections during the same period (100 * 500 million= 50 billion).
 
 If we calculate this value for each second, i.e., queries per second (QPS) = 500 million / (30 days * 24 hours * 3600 seconds) = ~200 URLs/s
