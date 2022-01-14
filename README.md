@@ -33,7 +33,7 @@ The non-functional requirements include:
 
 # Database (Assumption)
 
-Relational Databases or NoSQL. Service should be scalable and fault-tolerant. So, here we will go with NoSQL. A NoSQL choice would be easier to scale as they obey the distributed system and provide horizontal scaling.
+Relational Databases or NoSQL. Service should be scalable and fault-tolerant. So here we will go with NoSQL. A NoSQL choice would be easier to scale as they obey the distributed system and provide horizontal scaling.
 
 
 # System Analysis (Assumption)
