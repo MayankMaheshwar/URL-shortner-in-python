@@ -22,6 +22,7 @@ class URL_Shortener:
 
             # increase cnt for next url
             self.id += 1
+
         self.map["short_url.com/"+shorten_url] = original_url
 
         return "short_url.com/"+shorten_url

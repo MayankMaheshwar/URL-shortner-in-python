@@ -7,7 +7,7 @@ I already taken make the class to short the url and pass that short url to retri
 
 
 # Requirements of the System
-The URL shortening service like Tiny-URL should have the following features:
+The URL shortening service like Tiny-URL should have the following features-
 
 # Functional Requirements
 
